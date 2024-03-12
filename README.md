@@ -20,7 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SimpLe-Ly&show_icons=true&theme=gotham" alt="SimpLe-L" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SimpLe-L&show_icons=true&theme=gotham" alt="SimpLe-L" />
 <br />
 <br />
 <br />
