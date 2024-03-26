@@ -1,10 +1,6 @@
 ### hey there 
 
-hi, i'm [Simple](https://github.com/SimpLe-L).Currently, I work as a React Front-End Developer and continuously strive to develop my skills as a Full-Stack Web3 Developer. My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding. I always hold my code to the highest standards, and my ultimate goal is to become a proficient Fullstack Development Engineer.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+hi, i'm [Simple](https://github.com/SimpLe-L).Currently, I am a frontend engineer in the Web2 realm, but I am deeply intrigued by the world of Web3 and constantly exploring it. With this drive, I am striving to become a full-stack developer in the Web3 domain. My passion for software development drives me to keep pushing forward, and the process of learning and self-improvement is both challenging and rewarding.
 
 **languages and tools:**  
 
