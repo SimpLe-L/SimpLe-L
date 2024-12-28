@@ -11,16 +11,3 @@ hi, i'm [Simple](https://github.com/SimpLe-L).Currently, I am a frontend enginee
 <code><img height="20" src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="Solidity"></code>
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/141_Git_logo_logos-512.png" alt="git"></code>
 
-
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SimpLe-L&show_icons=true&theme=gotham" alt="SimpLe-L" />
-<br />
-<br />
-<br />
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
